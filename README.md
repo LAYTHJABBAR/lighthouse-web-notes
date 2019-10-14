@@ -1,5 +1,5 @@
 #  LAYTHJABBAR's Notes
-## summary)
+## summary
 this repository contains notes taken by  [layth's notes](git@github.com:LAYTHJABBAR/lighthouse-web-notes.git) for the lighthouse labs Web Development Bootcamp.
 
 ## Table of Contents
