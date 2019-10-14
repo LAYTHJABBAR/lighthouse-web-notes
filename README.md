@@ -1,8 +1,6 @@
-# H1 LAYTHJABBAR's Notes
-
+#  LAYTHJABBAR's Notes
 ## summary
-
-this repositoru contain notes wrote it down by Layth from the first day lighthouse, 
+this repository contain notes wrote it down by Layth from the first day lighthouse, 
 the lunch example:
 if you want to work with someone code you have to fork his code first then clone it in this cause you can work with the code on your profile through github 
 to go back working on your copy of the gist don't forget to log back to your account on git-hub and to do that you have to write the code below just to confirm first if you are on the right path , git remote -v
