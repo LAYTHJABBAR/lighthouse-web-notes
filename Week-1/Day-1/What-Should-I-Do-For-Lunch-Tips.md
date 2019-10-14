@@ -5,7 +5,7 @@ Try experimenting with the comparison operators (`<`, `>`, `===`, etc.) in the n
 Work on your code iteratively – that means in small pieces. 
 
 To help you figure out how to use `hungry` and `availableTime` inside your function, try outputting their values to the Terminal as follows.
-
+```javascript
 /*
  * Modify the contents of the function below, such that:
  *
@@ -54,3 +54,4 @@ whatToDoForLunch(false, 30);
 
 console.log("I'm hungry and I have 15 minutes for lunch.");
 whatToDoForLunch(true, 15);
+```
